@@ -37,7 +37,8 @@ I'm a passionate and highly motivated developer skilled in building modern web a
 
 - NPTEL Certificate: Programming in C, Java (2024)  
 - Python for Data Science (2025)  
-- 🥇 *1st Position in Coding Competition (Problem Solving Round)* at Coding Extravaganza 2.0 – NITRA Technical Campus  
+- 🥇 *1st Position in Coding Competition (Problem Solving Round)* at Coding Extravaganza 2.0 – NITRA Technical Campus
+- 🏆 *1st Winner – Hackathon (HackGen Nitra 1.0)* at NITRA Technical Campus, Ghaziabad
 
 ---
 
