@@ -1,6 +1,6 @@
 # 👨‍💻 Prabhat Maurya
 
-### B.Tech Computer Science (2nd Year) | Full-Stack Developer | AI & Blockchain Enthusiast
+### B.Tech Computer Science (FINAL Year) | Full-Stack Developer | AI & Blockchain Enthusiast
 
 ---
 
