@@ -25,11 +25,11 @@ I'm a passionate and highly motivated developer skilled in building modern web a
 ## 🛠️ Skills
 
 - **Programming Languages:** C, Java, Python, HTML, CSS, JavaScript  
-- **Web Development:** Django, Node.js, Bootstrap, Tailwind CSS  
+- **Web Development:** Django, , Bootstrap, Tailwind CSS  
 - **GUI Development:** Java Swing, Python Tkinter  
-- **Databases:** MySQL, NoSQL, MongoDB, SQLite  
+- **Databases:** MySQL, SQLite  
 - **Tools & Platforms:** Git, GitHub  
-- **Currently Learning:** Blockchain, AI, Flutter  
+- **Currently Learning:** Blockchain, AI & ML 
 
 ---
 
